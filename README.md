@@ -24,7 +24,7 @@ The Logistic Regression achieved an accuracy of 62% on the data.
 # Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/adityasingh0912/minor_project.git
+git clone https://github.com/Vedant-7Dev/EmotionDetection.git
 ```
 
 2. Install the 'requirements.txt':
@@ -38,3 +38,4 @@ streamlit run app.py
 ```
 
 4. It'll automatically open the Streamlit app in your default browser.
+
